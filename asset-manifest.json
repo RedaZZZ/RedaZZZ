@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RedaZZZ/static/css/main.386cf808.css",
+    "main.js": "/RedaZZZ/static/js/main.b2456c71.js",
+    "static/media/SEGA.woff": "/RedaZZZ/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RedaZZZ/index.html",
+    "main.386cf808.css.map": "/RedaZZZ/static/css/main.386cf808.css.map",
+    "main.b2456c71.js.map": "/RedaZZZ/static/js/main.b2456c71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.386cf808.css",
+    "static/js/main.b2456c71.js"
+  ]
+}
